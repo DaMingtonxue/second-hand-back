@@ -5,6 +5,11 @@ springboot+vue校园二手物品交易后端部分
 
 #### 软件架构
 软件架构说明
+spring
+springboot
+mybatis
+redis
+swagger
 
 
 #### 安装教程
@@ -15,8 +20,8 @@ springboot+vue校园二手物品交易后端部分
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
+1.  使用工具IDEA打开
+2.  启动SpringbootApplication
 3.  xxxx
 
 #### 参与贡献
